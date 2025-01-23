@@ -6,4 +6,4 @@ OPENAI_API_KEY=""
 
 2.In results_company add the the company results pdf before running the code
 
-3.in main.py run enter your query and a report will be generated at the end
+3.In main.py run enter your query and a report will be generated at the end
